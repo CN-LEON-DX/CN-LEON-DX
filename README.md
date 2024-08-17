@@ -1,12 +1,18 @@
-<h1 align="center">Hi 👋, I'm Chinh Nguyen</h1>
-<h3 align="center">A passionate backend developer and integrate AI</h3>
-<img
-    align="right"
-    alt="coding is hard"
-    width="400"
-    src="https://github.com/user-attachments/assets/bf6efbf8-4531-41e1-89d8-4e00203181ac
-"
-/>
+
+<div style="display: flex; align-items: center; width:100%">
+    <div style="flex: 1;">
+        <h1 style="margin: 0;">Hi , I'm Chinh Nguyen</h1>
+        <h3 style="margin: 0;">A passionate backend developer and integrate AI</h3>
+    </div>
+    <div style="flex: 1; text-align: center;">
+        <img
+            alt="coding is hard"
+            src="https://github.com/user-attachments/assets/fa9ca6b2-8a5b-4958-97b9-a27d3a6f3a98"
+            style="border-radius: 50%; width: 100px; height: 100px;"
+        />
+    </div>
+</div>
+
 
 
 <p align="left">
