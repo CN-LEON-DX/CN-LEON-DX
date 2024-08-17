@@ -8,7 +8,6 @@
 "
 />
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=cn-leon-dx&label=Profile%20views&color=0e75b6&style=flat" alt="cn-leon-dx" /></p>
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
