@@ -4,21 +4,11 @@
         <h1 style="margin: 0;">Hi , I'm Chinh Nguyen</h1>
         <h3 style="margin: 0;">A passionate backend developer and integrate AI</h3>
     </div>
-    <div style="flex: 1; text-align: center;">
-        <img
-            alt="coding is hard"
-            src="https://github.com/user-attachments/assets/fa9ca6b2-8a5b-4958-97b9-a27d3a6f3a98"
-            style="border-radius: 50%; width: 100px; height: 100px;"
-        />
-    </div>
+    
 </div>
 
 
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=cn-leon-dx" alt="cn-leon-dx" style="background-color: #7c42b2; margin: 10px"/></a>
-</p>
 
 - 🔭 I’m currently working on **?** - 🌱 I’m currently learning **The fundamentals of AI** - 👯 I’m looking to collaborate on **?** - 🤝 I’m looking for help with **backend service** - 📫 How to reach me **chinh9675pl365@gmail.com** - ⚡
 Fun fact **I think i never had anything !**
@@ -26,7 +16,7 @@ Fun fact **I think i never had anything !**
 <h3 align="left">Connect with me: chinh9675pl365@gmail.com</h3>
 <p align="left"></p>
 
-<h3 align="left">Languages and tool with basic knowledge:</h3>
+<h3 align="left" style="margin-bottom: 20px">Languages and tool with basic knowledge:</h3>
 <p align="left">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
