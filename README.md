@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **chinh9675pl365@gmail.com**
 
-- ⚡ Fun fact **I think i never scare anything !**
+- ⚡ Fun fact **I think i never had anything !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
