@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chinh Nguyen</h1>
 <h3 align="center">A passionate backend developer and integrate AI</h3>
-<img align="right" alt="coding is hard" width="400" src="https://github.com/user-attachments/assets/7c8e13f9-4e2e-4e34-88d5-7f08fdba4b13
+<img align="right" alt="coding is hard" width="400" src="https://github.com/user-attachments/assets/bf6efbf8-4531-41e1-89d8-4e00203181ac
 
 ">
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **?**
 
-- 🌱 I’m currently learning **AI framework**
+- 🌱 I’m currently learning **The fundamentals of AI**
 
 - 👯 I’m looking to collaborate on **?**
 
