@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chinh Nguyen</h1>
 <h3 align="center">A passionate backend developer and integrate AI</h3>
-<img align="right" alt="coding is hard" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmE0Nzluc2E3MWkwem93bDIxdHJoenk0aWkxdHk5bXVpeWJxb2NreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/200.webp
+<img align="right" alt="coding is hard" width="400" src="https://github.com/user-attachments/assets/7c8e13f9-4e2e-4e34-88d5-7f08fdba4b13
+
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cn-leon-dx&label=Profile%20views&color=0e75b6&style=flat" alt="cn-leon-dx" /> </p>
