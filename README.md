@@ -77,3 +77,7 @@ Fun fact **I think i never had anything !**
 <a href="https://github.com/CN-LEON-DX/SIC-Ex">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CN-LEON-DX&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
+
