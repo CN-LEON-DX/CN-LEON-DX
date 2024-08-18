@@ -2,7 +2,7 @@
 <div style="display: flex; align-items: center; width:100%">
     <div style="flex: 1;">
         <h1 style="margin: 0;">Hi , I'm Chinh Nguyen</h1>
-        <h3 style="margin: 0;">A passionate backend developer and integrate AI</h3>
+        <h3 style="margin: 0;">I passionate become backend developer and integrate AI</h3>
     </div>
     
 </div>
