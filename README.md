@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **?** - 🌱 I’m currently learning **The fundamentals of AI** - 👯 I’m looking to collaborate on **?** - 🤝 I’m looking for help with **backend service** - 📫 How to reach me **chinh9675pl365@gmail.com** - ⚡
 Fun fact **I think i never had anything !**
-- Quote: Rejection is better than fake promise, fake love, fake dream. **
+- MY QUOTE : **Rejection is better than fake Promise, fake Love, fake Dream.**
 
 <h3 align="left">Connect with me: chinh9675pl365@gmail.com</h3>
 <p align="left"></p>
