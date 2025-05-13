@@ -11,8 +11,8 @@
 
 
 - 🔭 I’m currently working on **?** - 🌱 I’m currently learning **The fundamentals of AI** - 👯 I’m looking to collaborate on **?** - 🤝 I’m looking for help with **backend service** - 📫 How to reach me **fuzzyfox145@gmail.com** - ⚡
-Fun fact **I think i never had anything !**
-- MY QUOTE : **Tomorow is not today.**
+Fun fact **I think i still love you !**
+- MY QUOTE : **Thank to god !.**
 
 <h3 align="left">Connect with me: fuzzyfox145@gmail.com</h3>
 <p align="left"></p>
