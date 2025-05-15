@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Side AI project** - 🌱 I’m currently learning **AI** - 👯 I’m looking to collaborate on **?** - 🤝 I’m looking for help with **backend service** - 📫 How to reach me **fuzzyfox145@gmail.com** - ⚡
 Fun fact **I think i still love you !**
-- MY QUOTE : **Thank to comming here !.**
+- MY QUOTE : **Need to change my life !.**
 
 <h3 align="left">Connect with me: fuzzyfox145@gmail.com</h3>
 <p align="left"></p>
