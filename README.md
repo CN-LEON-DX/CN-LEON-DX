@@ -10,9 +10,9 @@
 
 
 
-- 🔭 I’m currently working on **AI project** - 🌱 I’m currently learning **AI** - 👯 I’m looking to collaborate on **?** - 🤝 I’m looking for help with **backend service** - 📫 How to reach me **fuzzyfox145@gmail.com** - ⚡
+- 🔭 I’m currently working on **AI project** - 🌱 I’m currently learning **AI** - 👯 I’m looking to collaborate on **BE & AI** - 🤝 I’m looking for help with **backend service** - 📫 How to reach me **fuzzyfox145gmail.com** - ⚡
 Fun fact **I think i still love you !**
-- MY QUOTE : ** LET BECOME AI!.**
+- MY QUOTE : **CODE FASTER THAN GRANDFATHER RUN!.**
 
 <h3 align="left">Connect with me: fuzzyfox145@gmail.com</h3>
 <p align="left"></p>
