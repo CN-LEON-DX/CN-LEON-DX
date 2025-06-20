@@ -1,7 +1,7 @@
 
 <div style="display: flex; align-items: center; width:100%">
     <div style="flex: 1;">
-        <h1 style="margin: 0;">Hi , I'm Chinh Nguyen</h1>
+        <h1 style="margin: 0;">Hi , I'm FuzzyFox</h1>
         <h3 style="margin: 0;">I passionate become AI engineer</h3>
     </div>
     
