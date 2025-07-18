@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **AI project** - 🌱 I’m currently learning **AI** - 👯 I’m looking to collaborate on **BE & AI** - 🤝 I’m looking for help with **backend service** - 📫 How to reach me **fuzzyfox145gmail.com** - ⚡
 Fun fact **I think i still missing something !**
-- MY QUOTE : **MY CONTRIBUTION BURN OUT WHEN I DELETE REPO !.**
+- MY QUOTE : **Who am i!.**
 
 <h3 align="left">Connect with me: fuzzyfox145@gmail.com</h3>
 <p align="left"></p>
