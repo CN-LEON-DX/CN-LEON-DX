@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m currently working on **AI project** - 🌱 I’m currently learning **AI** - 👯 I’m looking to collaborate on **BE & AI** - 🤝 I’m looking for help with **backend service** - 📫 How to reach me **fuzzyfox145gmail.com** - ⚡
+- 🔭 I’m currently working on **... project** - 🌱 I’m currently learning **AI** - 👯 I’m looking to collaborate on **BE & AI** - 🤝 I’m looking for help with **backend service** - 📫 How to reach me **fuzzyfox145gmail.com** - ⚡
 Fun fact **I think i still missing something !**
 - MY QUOTE : **Who am i!.**
 
